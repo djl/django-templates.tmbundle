@@ -9,7 +9,7 @@
 	<key>foldingStopMarker</key>
 	<string>(&lt;/(?i:(head|table|tr|div|style|script|ul|ol|form|dl))&gt;|{% (endblock|endblocktrans|endcomment|endfilter|endfor|endif|endifchanged|endifequal|endifnotequal) %})</string>
 	<key>keyEquivalent</key>
-	<string>^~D</string>
+	<string>^~H</string>
 	<key>name</key>
 	<string>HTML (Django)</string>
 	<key>patterns</key>
@@ -63,7 +63,7 @@
 			<array>
 				<dict>
 					<key>match</key>
-					<string>\b(autoescape|endautoescape|block|endblock|blocktrans|endblocktrans|plural|debug|extends|filter|firstof|for|endfor|if|include|else|endif|empty|ifchanged|endifchanged|ifequal|endifequal|ifnotequal|endifnotequal|load|now|regroup|ssi|spaceless|templatetag|widthratio|with|endwith)\b</string>
+					<string>\b(autoescape|endautoescape|block|endblock|blocktrans|endblocktrans|plural|debug|extends|filter|firstof|for|endfor|if|include|else|endif|empty|ifchanged|endifchanged|ifequal|endifequal|ifnotequal|endifnotequal|load|now|regroup|ssi|set|spaceless|endspaceless|endcapture|templatetag|widthratio|with|endwith)\b</string>
 					<key>name</key>
 					<string>keyword.control.django.template</string>
 				</dict>
