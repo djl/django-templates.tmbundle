@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
@@ -102,13 +102,13 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>Python Django Templates</string>
+	<string>Django Templates</string>
 	<key>ordering</key>
 	<array>
 		<string>A3452E24-5C3A-42AF-B7D4-1C509BEEB638</string>
 		<string>F4B0A70C-ECF6-4660-BC26-785216E3CF02</string>
-		<string>392C9A9F-2264-421D-9EAB-95CE16481B1B</string>
-		<string>10C0357D-EB2C-4CC7-B361-391A35AE3C2E</string>
+		<string>A190D576-8E4D-4D57-B8D1-6015771CE3A0</string>
+		<string>86DAEBCC-3374-4172-89E2-1361D3CE4F90</string>
 		<string>8C303CB4-D2DC-4DEA-9CF6-B8E24C021646</string>
 		<string>4D1DEEF8-0CFA-41FA-9F7C-D985E556B000</string>
 		<string>0E149492-0900-409F-9C63-940D1DF8997A</string>
@@ -130,10 +130,6 @@
 		<string>3E8EC5B9-FF4F-4441-88A7-63C6844E1635</string>
 		<string>617F3D96-F893-4BE6-8AE5-B4B35E1DD7DC</string>
 		<string>17F3AFB0-F5BB-4C25-A5BE-454E5C929B67</string>
-		<string>43F0FCA9-1E10-4286-9D41-02F6065A6E8E</string>
-		<string>549349F9-DE08-4871-8C6E-F77FBF44DEAE</string>
-		<string>261F0951-914C-4D24-824F-7D78FE9BF1F6</string>
-		<string>373F257A-070E-4A98-90F9-573D4CF559D6</string>
 		<string>AB73645D-3A5D-41F0-9E91-15662F41EC03</string>
 		<string>7B68FB0B-DCA8-4F87-99B6-9724565D93B6</string>
 		<string>9E3A8849-E139-4980-B8DD-12DCD2A48759</string>
