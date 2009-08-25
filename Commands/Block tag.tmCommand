@@ -11,7 +11,10 @@ import sys
 
 out = '{% $1 %}$2'
 if os.environ.has_key('TM_SELECTED_TEXT'):
-    out = '{% %s %}$1' % os.environ['TM_SELECTED_TEXT']
+    out = '{% '
+    out += os.environ['TM_SELECTED_TEXT']
+    out += ' %}$1'
+
 
 sys.stdout.write(out)</string>
 	<key>fallbackInput</key>
