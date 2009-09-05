@@ -35,13 +35,6 @@
 			<string>#}</string>
 			<key>name</key>
 			<string>comment.line.django.template</string>
-			<key>patterns</key>
-			<array>
-				<dict>
-					<key>include</key>
-					<string>#expression</string>
-				</dict>
-			</array>
 		</dict>
 		<dict>
 			<key>begin</key>
