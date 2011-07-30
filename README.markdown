@@ -10,4 +10,4 @@ A lot of these snippets and commands are pilfered from other people's bundles.
 # Install
 
     $ cd ~/Library/Application\ Support/TextMate/Bundles
-    $ git clone git://github.com/xvzf/django-templates.tmbundle.git Django\ Templates.tmbundle
+    $ git clone git://github.com/djl/django-templates.tmbundle.git Django\ Templates.tmbundle
