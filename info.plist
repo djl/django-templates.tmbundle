@@ -3,16 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>contactEmailRot13</key>
-	<string>co@r-fpevor.pbz</string>
+	<string>q@qwy.vz</string>
 	<key>contactName</key>
-	<string>Paul Bissex</string>
-	<key>deleted</key>
-	<array>
-		<string>1D3B30AE-1FDA-4ECB-9BF4-2D6FF659AFB1</string>
-		<string>1D3B30AE-1FDA-4ECB-9BF4-2D6FF659AFB1</string>
-	</array>
+	<string>David Logie</string>
 	<key>description</key>
-	<string>Support for the &lt;a href="http://www.djangoproject.com/"&gt;Django web framework&lt;/a&gt; HTML extensions.</string>
+	<string>Support for Django, Jinja and Twig templates</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -181,6 +176,6 @@
 		<string>20F0FE5C-BF8C-4258-8F93-3D6F62447068</string>
 	</array>
 	<key>uuid</key>
-	<string>636D6496-6201-4C95-B51C-007608BE98FF</string>
+	<string>60D947BB-4CC8-4BEC-A71A-D5852BCBFAC2</string>
 </dict>
 </plist>

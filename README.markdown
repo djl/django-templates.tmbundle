@@ -1,13 +1,16 @@
-# Django Templates.tmbundle
+Django Templates.tmbundle
+-------------------------
 
-Modifications and additions to the official Python Django Template TextMate bundle originally located at http://macromates.com/svn/Bundles/trunk/Bundles/Python%20Django%20Templates.tmbundle/.
+This bundle is basically the [official bundle][ob] hacked to include
+support for Django-like template languages (Django, Jinja, Twig).
 
-These changes really should extend the official, rather than override them outright.
+At some point, I'll add support for Mustache. Maybe.
 
-A lot of these snippets and commands are pilfered from other people's bundles.
+[ob]: https://github.com/textmate/python-django-templates.tmbundle/
 
 
-# Install
+TextMate (2) / Sublime Text 2
+-----------------------------
 
-    $ cd ~/Library/Application\ Support/TextMate/Bundles
-    $ git clone git://github.com/djl/django-templates.tmbundle.git Django\ Templates.tmbundle
+This bundle (mostly) supports TextMate, TextMate 2 and Sublime Text 2.
+The only exception being the commands don't work in Sublime Text 2.
