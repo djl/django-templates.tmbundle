@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>beforeRunningCommand</key>
-	<string>nop</string>
-	<key>command</key>
-	<string>#!/usr/bin/env python
+    <key>beforeRunningCommand</key>
+    <string>nop</string>
+    <key>command</key>
+    <string>#!/usr/bin/env python
 import os
 import sys
 
@@ -17,17 +17,17 @@ if os.environ.has_key('TM_SELECTED_TEXT'):
 
 
 sys.stdout.write(out)</string>
-	<key>fallbackInput</key>
-	<string>none</string>
-	<key>input</key>
-	<string>selection</string>
-	<key>keyEquivalent</key>
-	<string>^%</string>
-	<key>name</key>
-	<string>Block tag</string>
-	<key>output</key>
-	<string>insertAsSnippet</string>
-	<key>uuid</key>
-	<string>A190D576-8E4D-4D57-B8D1-6015771CE3A0</string>
+    <key>fallbackInput</key>
+    <string>none</string>
+    <key>input</key>
+    <string>selection</string>
+    <key>keyEquivalent</key>
+    <string>^%</string>
+    <key>name</key>
+    <string>Block tag</string>
+    <key>output</key>
+    <string>insertAsSnippet</string>
+    <key>uuid</key>
+    <string>A190D576-8E4D-4D57-B8D1-6015771CE3A0</string>
 </dict>
 </plist>
